@@ -3,8 +3,7 @@
 Test whether a folder path is part of a git or SVN repository.
 
 ```javascript
-
-require gitorsvn = require('git-or-svn');
+var gitorsvn = require('git-or-svn');
 
 gitorsvn( __dirname, function(gitorsvn) {
 	if ( gitorsvn === 'git' ) {
@@ -15,3 +14,4 @@ gitorsvn( __dirname, function(gitorsvn) {
 		// It's neither!
 	}
 });
+```
