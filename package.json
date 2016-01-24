@@ -1,6 +1,6 @@
 {
   "name": "git-or-svn",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Tell whether a folder is part of a git or svn repository.",
   "main": "index.js",
   "scripts": {
