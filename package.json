@@ -1,0 +1,11 @@
+{
+  "name": "git-or-svn",
+  "version": "0.0.1",
+  "description": "Tell whether a folder is part of a git or svn repository.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Lewis",
+  "license": "MIT"
+}
